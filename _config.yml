@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+email: ""
+description: The Life and Times of Brynna
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "https://brynnaw.github.io/" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  brynnaw
 
 # Build settings
 markdown: kramdown
