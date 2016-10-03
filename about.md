@@ -3,13 +3,18 @@ layout: page
 title : About Me
 permalink: /about/
 ---
+# test
 
 <h2>January 15, 1996</h2>
 <center><p>I was born in Austin, TX to Judy and Tim Wainwright. My older sister, Kaitlin, was not as thrilled of my arrival. She is three years older than me. </p></center>
 
 <h2>May 1997</h2>
 <center><p>I moved to Orlando, FL. Living 45 min away from Disney was definitely the best thing in the world.</p></center>
-![Alt Text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwQPmHB-jqUSGBb6aMBlCHFBWeLTxk-yDdLjXziH0DGnPoEud) 
+<center>
+
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwQPmHB-jqUSGBb6aMBlCHFBWeLTxk-yDdLjXziH0DGnPoEud" alt="Alt Text">
+
+</center>
 
 <h2>June 7, 2014</h2>
 <center><p>I graduated Green Hope High School. Throughout high school I was involved in various things including</p></center>
