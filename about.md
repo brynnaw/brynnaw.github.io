@@ -4,8 +4,16 @@ title : About Me
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>January 15, 1996</h2>
+<center><p>I was born in Austin, TX to Judy and Tim Wainwright. My older sister, Kaitlin, was not as thrilled of my arrival. She is three years older than me. </p></center>
+
+<h2>May 1997</h2>
+<center><p>I moved to Orlando, FL. Living 45 min away from Disney was definitely the best thing in the world.</p></center>
+<center><p> ![Alt Text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwQPmHB-jqUSGBb6aMBlCHFBWeLTxk-yDdLjXziH0DGnPoEud) </p></center>
+
+<h2>June 7, 2014</h2>
+<center><p>I graduated Green Hope High School. Throughout high school I was involved in various things including</p></center>
+
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
