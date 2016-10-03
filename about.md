@@ -9,7 +9,7 @@ permalink: /about/
 
 <h2>May 1997</h2>
 <center><p>I moved to Orlando, FL. Living 45 min away from Disney was definitely the best thing in the world.</p></center>
-<center><p> ![Alt Text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwQPmHB-jqUSGBb6aMBlCHFBWeLTxk-yDdLjXziH0DGnPoEud) </p></center>
+![Alt Text](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwQPmHB-jqUSGBb6aMBlCHFBWeLTxk-yDdLjXziH0DGnPoEud) 
 
 <h2>June 7, 2014</h2>
 <center><p>I graduated Green Hope High School. Throughout high school I was involved in various things including</p></center>
