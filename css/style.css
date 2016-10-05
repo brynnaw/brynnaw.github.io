@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 Georgia, serif; 
   color: #000000;
   background-color: #7FFFD4;
   -webkit-text-size-adjust: 100%;
@@ -127,6 +127,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+  font: Georgia;
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
@@ -135,6 +136,7 @@ pre {
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
+      font: Georgia;
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
       padding-right: 15px;
@@ -210,12 +212,12 @@ pre {
 
 .postContent {
   padding-top: 3.5em;
-  text-align: center; }
+  text-align: left; }
 
 .postDate {
   float: left;
   text-transform: uppercase;
-  font-family: "Source Sans Pro";
+  font-family: Georgia;
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -225,8 +227,9 @@ pre {
   float: right; }
 
 .postTitle {
+  font: Georgia;
   font-weight: 400;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   letter-spacing: 3px;
   text-indent: 3px; }
@@ -243,7 +246,7 @@ pre {
 .site-title {
   font-size: 64px;
   font-weight: 100;
-  font-family: 'PT Sans';
+  font-family: Georgia;
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em; }
@@ -274,12 +277,12 @@ pre {
   text-transform: uppercase;
   letter-spacing: 2px;
   text-indent: 2px;
-  font-family: "PT Sans";
+  font-family: Georgia;
   font-size: 12px; }
 
 .page-tagline {
   font-size: 18px;
-  font-family: "PT Sans";
+  font-family: Georgia;
   color: #aaaaaa;
   text-align: center;
   text-transform: lowercase; }
@@ -344,7 +347,7 @@ pre {
   margin-left: 0; }
 
 .small-site-title {
-  font-family: "PT Sans"; }
+  font-family: Georgia; }
 
 .footer-col-wrapper {
   font-size: 15px;
@@ -352,7 +355,7 @@ pre {
   margin-left: -15px; }
 
 .footer-content {
-  font-family: "Josefin Sans";
+  font-family: Georgia;
   font-weight: 300;
   letter-spacing: 1px; }
 
@@ -394,6 +397,7 @@ pre {
   padding: 0; }
 
 .page-heading {
+  font: Georgia;
   font-size: 20px; }
 
 .post-list {
@@ -403,12 +407,14 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
+  font: Georgia;
   font-size: 14px;
   color: #828282;
   text-transform: uppercase;
   font-size: 16px; }
 
 .post-link {
+  font: Georgia;
   display: block;
   font-size: 24px; }
 
@@ -421,28 +427,35 @@ pre {
 .post-title {
   font-size: 62px;
   text-align: center;
-  font-family: "PT Sans";
+  font-family: Georgia;
   font-weight: 900; }
   @media screen and (max-width: 800px) {
     .post-title {
+      font: Georgia;
       font-size: 36px; } }
 
 .post-content {
   margin-bottom: 30px;
   padding-bottom: 3em !important; }
   .post-content p {
+    font: Georgia;
     font-size: 1.5rem; }
   .post-content h2 {
+    font: Georgia;
     font-size: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
+        font: Georgia;
         font-size: 28px; } }
   .post-content h3 {
+    font: Georgia;
     font-size: 26px; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
+        font: Georgia;
         font-size: 22px; } }
   .post-content h4 {
+    font: Georgia;
     font-size: 20px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
