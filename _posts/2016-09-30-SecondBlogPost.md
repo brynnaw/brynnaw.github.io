@@ -22,9 +22,10 @@ Here are some helpful resources if I ever get stuck or want to learn something n
 
 # Resources
 
-* HTML http://www.w3schools.com/html/default.asp
-* CSS http://www.w3schools.com/css/default.asp
-* Markdown https://guides.github.com/features/mastering-markdown/
+* HTML-   <a href="http://www.w3schools.com/html/default.asp">   Click Here! </a>
+* CSS-  <a href="http://www.w3schools.com/css/default.asp">   Click here! </a>
+* Markdown-   <a href="https://guides.github.com/features/mastering-markdown/">   Click Here! </a>
+
 
 
 
