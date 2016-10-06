@@ -6,14 +6,13 @@ permalink: /about/
 <center><h1> A Short Biography </h1></center>
 
 <h3>January 15, 1996</h3>
-<center><p>I was born in Austin, TX to Judy and Tim Wainwright. My older sister, Kaitlin, was not as thrilled of my arrival. She is three years older than me. Here a picture of us now! </p></center>
+<center><p>I was born in Austin, TX to Judy and Tim Wainwright. My older sister, Kaitlin, was not as thrilled of my arrival. She is three years older than me. Here is a picture of us now! </p></center>
 
 <center>
 
-<img src="https://lh3.googleusercontent.com/1fvrfPXFSig8Xga23VnzH51eMowmLW7sMKGeOP_w0P1Raq5Oka1Qst3cZmNinjgiYHxzRYUiLXA3T2mr9vZO27jrz9qjhv0_U7nkgjyRdoaSDeYsjkQOZ_qFmhhrjQDkBVoQwGaXDPRcn6K_0V9c3Ot_dKkiZS58tUozLOzcttVNSJ8_TsI3w49yLSNKmZumGXlwLU3Mg8XY4Xl6MqmnVUHyeV416242ItE3ig80H6x7YN-_ua_bRhKWnul7cK1jAFCaBlD79eLnl_GNQYMDvaA1IP5FwVwX3UKNt4U4fmN4zaioahsVGsm4Jn4y03yacmh3ReXUVxJq9t0WxAY9MlzVW0oS_51dEJHuv-EVqnCKGyD4tYievPPVklcQyMtO-9cyAFnZoC2H69zqNyUhjU9EG6zfzAzyj6PgIx9r73Q0E0Q-vEYHb_cROsVU5AY9ET-YzBTaMtaRoBl7Tfngx_t71pftnNAURo2IOBxFXRaLrH_N3TAuTCl9iRpK_SbdrHbLYVRDnpRGDDg9N0YuYi64AuqXpjGgp0XpKxeuU5bVDNDMlHMNSnS9ZeJn7sSwCBlPDFOLAqlH6Wbbzuh4KXlMOCMA6-gXLufiV_O5Q58xgzZW=w851-h638-no" alt="Alt Text">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/29511751783/in/dateposted-public/" title="inls_pic2"><img src="https://c8.staticflickr.com/9/8131/29511751783_867e1662ce_b.jpg" width="851" height="638" alt="inls_pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
-
 
 <h3>January 20, 1997</h3>
 <center><p>I moved to Orlando, FL. Okay, so maybe I made up the EXACT date, but I do know it was in the month of January! My family and I moved to Sanford, FL which is a suburb of Orlando for my Dad's work. Living 45 min away from Disney was definitely the best thing in the world, especially as a 5 year old.</p></center>
@@ -28,7 +27,7 @@ permalink: /about/
 
 <center>
 
-<img src="https://lh3.googleusercontent.com/9IyMfIYorYjdUDcFtNmcdqBfITNCAaq0GyTjocGVNJxqAryzNxxxzIAf9wqYqi3sk884tp7FauB_-a2Gy60q-5QmpyfMks0vwixxjDKBuuvo2xhLhNwS786ZFxJJFLUSr0z0-BLVH53MD2rhYXWk-4RiFV3PYUr0RKBDuqo3ynnd6J4zhaXUIaMYW5AWUE6r8l7VyemKfmbXNhc3oQX5DxdJs3pEF3mogJ_vBq1-ttuE_z_YFsjaWUzEeti2aHOElaXiWRyuNtoy8Hj1baHtptuYH4chSLwM9svLuBNQfe9PiVb7ZzWmBSDSpcfw-iIDXrKwdSiP0wZkHXjIsgPfEp03v2IdMzUaz4_FSAAQyJOxQUK3e-pgQYwuy-O3u36qhn3LoDDojJzTc01pwdCJSZ7mgSE23MYVtCZ2YmQAtMkwK8V9ObV76ZtFa6UJ36AyIx5afmh2Gcvtj_Ag-J-NDmQf-Q4zFoxDcTyC-6mH65x7srWTBHACZR3bCvZZG2WMVLCznZBoCiH4S7x3b5EXvRY3R1KtU2TbcjFrA1mEpiWP19WAG2YbYuddsH_l1SYQ8hxMNgkxYPr-8wY4JzC6YQZqJ8I2LvXOODa7Y9OzHHiHbmKI=w479-h638-no" alt="Alt Text">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/30056282621/in/dateposted-public/" title="inls_pic3"><img src="https://c6.staticflickr.com/6/5694/30056282621_197ef2c6c4_z.jpg" width="478" height="638" alt="inls_pic3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
@@ -38,7 +37,7 @@ permalink: /about/
 
 <center>
 
-<img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10366002_762571177098610_1142762131485580307_n.jpg?oh=cbe8aee5fc543bc585faf7ff642afb20&oe=586F96BC" alt="Alt Text">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/29514683694/in/dateposted-public/" title="inls_pic4"><img src="https://c7.staticflickr.com/6/5469/29514683694_ac2e59f6c9_z.jpg" width="562" height="638" alt="inls_pic4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
 </center>
 
@@ -47,7 +46,7 @@ permalink: /about/
 
 <center>
 
-<img src="https://lh3.googleusercontent.com/35_c0C3FwCq6PH1xxg5UaZLcBVgVHq5Z8A77A7dBOHRa0lh8AsMOpwyYSNyS3zvJ5YUl2i4mINWPh04h26HTyEAvgRNr7SuJ7WePpcI38bQx2YOLbEHwT1rbdvQcmpyJTD1zk35H7QTL9LsNOaIiOyWB-zXRKuiVFl9-U8mx7VfuGN4b_fFotYFDLbg8LaMsxq0kk7WwgFxnYXxvJ7eaxZe5OU8Un4awyAt3QcX6x0cq-CVLuCMBWXpH9wU_zA9vASe-OudiL5SARRY866h3b_Bzfdg6Pny6GjUAR2TRpJ9_4vMimDLrNFu_yvXUTetdXYnZ8DxUNQgJFqxqzDnczB0kPimVo_MwEeVoIM0i56w7IpceQY2QeoKaPH9wBphibBJ2O71Rs1scOIcH6eZ2M4ocwMexHK9B2cvDK47OpdkfEh9FvHmM6JsBXO5RvIshyAknxPyO4ZFCQAwuSxwOkalyKBiqZYvicYr-2WBGsb4rBiEdnYAO4JB7NGane8Sxku9P3e5FEgNYr7CFK8yHXPZQsUIZ0m-W0-cdrAO6KjmCLo8Wq69CVz4kUGEta7kQk1VqEgXbnIVbtOUxxhrjg7DFcrtlborgR7UoMgLsDlJ6utRE=w851-h638-no" alt="Alt Text">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/29514711084/in/dateposted-public/" title="inls_pic5"><img src="https://c5.staticflickr.com/9/8732/29514711084_f49749599b_z.jpg" width="640" height="480" alt="inls_pic5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
@@ -56,7 +55,7 @@ permalink: /about/
 
 <center>
 
-<img src="https://lh3.googleusercontent.com/Jqe5iKygA_GilUV1Ji5pvx3p-RpDNcA00bQr066dc3uDB1nzoX3CV5srkwOISvQCulrF5pyzPBBbiQJW11p8CKa2fRgHnHY36QfEP-phAUQ4NB1-v2o9Mr4MotKPILnJO-PU9RO7vrdpkb8roWaK-YleoKjoKDCUNlZsJc_3uNnE_P0PCpeh6t2_fUdk5Dj2OAMtGQD7RhL-vRnMmHh3nBoclhLMtDjG9Z7GndgyH6wLuNzvp-gNR9gpax7Bgu1ZFOwy0qzPBycpi6DIM6rGpnbB_nJdWG_2GrWDh1ErPSLRWk933IMfbzsdu36sigCr2WWOnMpXaKFdpWl3S0SaSiWWQHwkSIGJoPoGNAxGd5KDXP2L99MeNHPGOQrQIt4fB_C8_zDxfK3pQ6Kv5by59IC6Npvy9H6DTJdTjAXPfKrEdbiEZQ7nDx1bMLbe-mGUnS10UMBLvrBRYBmHp6Ovd3xTki1kyokxdj0wdyDZAjTQ1Mi1NBOYR9_E6fGh2D4BzRQTZbEk8X04S1l-zb5KoEhN1HPk8IVKOHu_9Xfps7lKplJ8Bzeoc3AF56Tez-bV-GIlo3o0IutnycWKYv2LVWsSxZxtE1tkOn3dm6eAEVm2_7S_=w851-h638-no" alt="Alt Text">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/144946912@N06/29511751813/in/dateposted-public/" title="inls_pic"><img src="https://c6.staticflickr.com/6/5751/29511751813_41a3a4b7b4_z.jpg" width="640" height="480" alt="inls_pic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 </center>
 
