@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some Extra Stuff
+title: Extra
 permalink: /download/
 ---
 
