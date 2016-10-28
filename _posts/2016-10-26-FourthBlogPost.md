@@ -13,6 +13,7 @@ The original document that I converted was an old research paper from a couple s
 
 # Technical
 The script that I used incorporated various commands which allowed the program to know what to do with the markdown document. Specifically, the following commands instructed Pandoc to change the markdown document to HTML, DOCX, ODT, and PDF respectively:
+
 * `pandoc -o ArtHistoryEssay.html ArtHistoryEssay.md`
 * `pandoc -o ArtHistoryEssay.docx ArtHistoryEssay.md`
 * `pandoc -o ArtHistoryEssay.odt ArtHistoryEssay.md`
@@ -30,16 +31,21 @@ Ultimately, this assignment helped me to better understand pandoc as well as bet
 # Links
 If you want to better understand what the script actually does, you can get a hands-on look at the code and source/output files!
 
-Source file:
+## Source file:
 * [ArtHistoryEssay.md](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.md)
 
-Output files:
+## Output files:
 * [ArtHistoryEssay.docx](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.docx)
+
 * [ArtHistoryEssay.html](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.html)
+
 * [ArtHistoryEssay.odt](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.odt)
+
 * [ArtHistoryEssay.pdf](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.pdf)
+
 * [Here is the link to my Editor](https://ide.c9.io/brynnaw/assignment3)
 
-Script Code:
+## Script Code:
+
 * [Here is the link to my script code](https://github.com/inls161/assignment-3-brynnaw/blob/master/brynnaw-convert-docs.sh)
 
