@@ -13,10 +13,11 @@ The original document that I converted was an old research paper from a couple s
 
 # Technical
 The script that I used incorporated various commands which allowed the program to know what to do with the markdown document. Specifically, the following commands instructed Pandoc to change the markdown document to HTML, DOCX, ODT, and PDF respectively:
-`pandoc -o ArtHistoryEssay.html ArtHistoryEssay.md`
-`pandoc -o ArtHistoryEssay.docx ArtHistoryEssay.md`
-`pandoc -o ArtHistoryEssay.odt ArtHistoryEssay.md`
-`pandoc -o ArtHistoryEssay.pdf ArtHistoryEssay.md`
+* `pandoc -o ArtHistoryEssay.html ArtHistoryEssay.md`
+* `pandoc -o ArtHistoryEssay.docx ArtHistoryEssay.md`
+* `pandoc -o ArtHistoryEssay.odt ArtHistoryEssay.md`
+* `pandoc -o ArtHistoryEssay.pdf ArtHistoryEssay.md`
+
 One feature that I also incorporated into the script is an If, Then Statement which ensures that the user wants to continue with the functions of the script. More specifically, I asked the user, “Would you like your markdown file to be converted? 'Yes' or 'No',” and then I saved the user’s input into a variable by using the command `read USERINPUT`. If the user input said ‘Yes’ then the script continued to run, if not, then the user is exited from the script.
 
 # Reflection
@@ -29,13 +30,16 @@ Ultimately, this assignment helped me to better understand pandoc as well as bet
 # Links
 If you want to better understand what the script actually does, you can get a hands-on look at the code and source/output files!
 
-* Source file:
-[ArtHistoryEssay.md](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.md)
-* Output files:
-[ArtHistoryEssay.docx](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.docx)
-[ArtHistoryEssay.html](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.html)
-[ArtHistoryEssay.odt](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.odt)
-[ArtHistoryEssay.pdf](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.pdf)
-[Here is the link to my Editor](https://ide.c9.io/brynnaw/assignment3)
-[Here is the link to my script code](https://github.com/inls161/assignment-3-brynnaw/blob/master/brynnaw-convert-docs.sh)
+Source file:
+* [ArtHistoryEssay.md](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.md)
+
+Output files:
+* [ArtHistoryEssay.docx](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.docx)
+* [ArtHistoryEssay.html](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.html)
+* [ArtHistoryEssay.odt](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.odt)
+* [ArtHistoryEssay.pdf](https://github.com/inls161/assignment-3-brynnaw/blob/master/ArtHistoryEssay.pdf)
+* [Here is the link to my Editor](https://ide.c9.io/brynnaw/assignment3)
+
+Script Code:
+* [Here is the link to my script code](https://github.com/inls161/assignment-3-brynnaw/blob/master/brynnaw-convert-docs.sh)
 
