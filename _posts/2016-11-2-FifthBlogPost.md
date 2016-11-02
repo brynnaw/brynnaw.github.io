@@ -10,6 +10,7 @@ Hi again! Today I’m going to tell you about our assignment 4 which was to crea
 
 # Creating the Questions
 First we misunderstood the assignment and thought that we were supposed to create the same 5 questions that were asked during one of our in class assignments (**oops**). Once we cleared that up, we came up with 5 new questions:
+
 * What is your Name?
 * What is your favorite color?
 * What is your biggest fear?
