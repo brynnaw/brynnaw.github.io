@@ -33,6 +33,5 @@ This was tricky because we wanted to *append* an existing CSV file each time som
 I learned a bunch from this exercise! First of all, I hope to go into data analytics and data science, so having some sort of idea how data files work will definitely prove useful. Also, learning the collaborative aspect of GitHub is also very useful knowledge as well as being resourceful with google! All in all, it was a successful assignment.
 
 # Links
-Here is the link to my GitHub repository:
-[Here is the link to my Editor](https://github.com/brynnaw/BlueBlueGreen-Assignment-4)
+[Here is the link to my GitHub repository](https://github.com/brynnaw/BlueBlueGreen-Assignment-4)
 
