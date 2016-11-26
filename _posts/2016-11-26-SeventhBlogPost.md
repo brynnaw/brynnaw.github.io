@@ -6,11 +6,11 @@ categories: ""
 author: "Brynna Wainwright"
 ---
 
-** 3D Printing Workshop **
+# 3D Printing Workshop
 
 For my second community event, I went to a 3D printing workshop! Here at UNC we have a ‘Makerspace’ which is basically an area for all students to come and explore their creativity! They have many things there from workshops on how to make a duct tape wallet all the way to things like 3D scanning and visualization. These spaces are becoming popular in communities and on college campuses and they work to create an inspiring and creative environment. [Here is the link to UNC’s makerspace website](http://library.unc.edu/makerspace/)
 
-# What I learned
+## What I learned
 
 I was actually the only person to attend the workshop so I got a personalized introduction into 3D printing! So apparently the 3D printers process files in a “.stl” format and that can be created in various 3D design programs such as 
 
@@ -21,7 +21,7 @@ OR you can download an already created .stl file that someone else already creat
 
 * Thingiverse.com
 * NASA
-*  Smithsonian
+* Smithsonian
 
 After browsing through some of these options on the websites previously listed, the instructor took me through some design considerations when making your own .stl file. 
 
