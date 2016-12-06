@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seventh Blog Post"
-date:   2016-12-105
+date:   2016-12-05
 categories: ""
 author: "Brynna Wainwright"
 ---
