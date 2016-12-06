@@ -34,7 +34,7 @@ We realized soon that it would be a lot easier to name the file that the pandoc 
 
 Once we finally figured out how to format the script and markdown file, we were then able to fill in our information into the markdown framework. The problem we ran into with this step, however, was how to format the audio files. We didn’t want to download the program suggested in the notes (.ogg) so instead we decided to create .mp3. This almost worked until we realized that we needed to change the audio file type in the template-index.html from .ogg to .mp3. Once we figured this out we were good to go! Once we figured out a format, we were able to just do the same thing over and over again for each slide. Generally, we had a `#` to indicate a new slide. Then we had the audio: `<section data-audio-src="audio/slide01.mp3" data-background="#56A0D3"> </section>`. Then we added any text that we needed, followed by the aside notes which contained the script that we each said on each slide using the aside tags: `<aside class="notes"></aside class="notes">`.
 
-** Special Lightbulb Moment**
+**Special Lightbulb Moment**
 
 Something that I discovered while working on this project is that you can incorporate a .gif file into html in the same way you incorporate a picture! This was a special “A-ha” moment for me because it didn’t require a problem to arise before I discovering it.
 
